@@ -4,26 +4,27 @@ RecOgnise Sos gEsture (ROSE)
 
 ## Data acquisition
 
-<embed src="results/img_tiago.pdf" type="application/pdf">
+[Tiago Robot](results/img_tiago.pdf)
 
-<embed src="results/img_dataset_distance.pdf" type="application/pdf">
+[Users doing sign with each hand and different distances from the camera](results/img_dataset_distance.pdf)
 
 ## Dataset information
 
-<embed src="results/img_dataset_hands.pdf" type="application/pdf">
+[Signs dataset](results/img_dataset_signs.pdf)
 
-<embed src="results/img_dataset_signs.pdf" type="application/pdf">
+[Dataset by hand](results/img_dataset_hands.pdf)
 
-<embed src="results/img_dataset_train_test.pdf" type="application/pdf">
+[Dataset splitted for training and test](results/img_dataset_train_test.pdf)
+
 
 ## Get hand landmarks
 
-<embed src="results/img_process_hands.pdf" type="application/pdf">
+[Process to get hand landmarks](results/img_process_hands.pdf)
 
 ## Process sequence of signs
 
-<embed src="results/img_process_holes_sequences.pdf" type="application/pdf">
+[Filling holes in sequence of signs](results/img_process_holes_sequences.pdf)
 
 ## Users sequence for detecting SOS gesture
 
-<embed src="results/img_users_sequence.pdf" type="application/pdf">
+[Detecting SOS gesture](results/img_users_sequence.pdf)
