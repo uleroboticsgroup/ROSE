@@ -1,0 +1,5 @@
+,name,hand,unknown,size,accuracy,val_accuracy,train_parameters,inference_time
+0,model_small_without_hand,False,False,small,0.9686350226402283,0.919670820236206,1567,0.03128552436828613
+1,model_small_with_hand,True,False,small,0.9633783102035522,0.9224137663841248,1587,0.03128647804260254
+2,model_big_without_hand,False,False,big,0.9726651310920715,0.9275078177452087,2497,0.03128767013549805
+3,model_big_with_hand,True,False,big,0.9733660221099854,0.92476487159729,2527,0.031282901763916016
