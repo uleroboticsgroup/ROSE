@@ -1,0 +1,5 @@
+Unnamed: 0,name,hand,unknown,size,accuracy,val_accuracy,train_parameters,inference_time,precision,recall,val_precision,val_recall
+0,model_small_without_hand,False,False,small,0.9686,0.9197,1567,31.29,0.9673,0.9689,0.92,0.925
+1,model_small_with_hand,True,False,small,0.9634,0.9224,1587,31.29,0.9628,0.9643,0.9242,0.9272
+2,model_big_without_hand,False,False,big,0.9727,0.9275,2497,31.29,0.9711,0.973,0.9305,0.9317
+3,model_big_with_hand,True,False,big,0.9734,0.9248,2527,31.28,0.9705,0.9742,0.9218,0.93
