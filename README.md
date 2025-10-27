@@ -32,7 +32,7 @@ RecOgnise Sos gEsture (ROSE)
 
 ## Paper in publisher:
 
-https://academic.oup.com/jigpal/article-abstract/33/5/jzae059/7675193?login=false
+[https://academic.oup.com/jigpal/article-abstract/33/5/jzae059/7675193?login=false](https://academic.oup.com/jigpal/article-abstract/33/5/jzae067/7670722?login=false)
 
 ## Cite as:
 
